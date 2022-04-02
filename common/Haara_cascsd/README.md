@@ -2,10 +2,12 @@
 Для детектора объектов необходимо обучить систему технического зрения. Для этого было сделано 1500 фотографий, переконвертированных в черно-белый формат разрешением 320x240. 500 - содержат объект, 1000 –не содержат . На основе этих фотографий и происходило обучение.
 
 «Хорошие» и «плохие» фотографии
-!["хорошее" фото](https://github.com/sergeya884/NANORobotProject/tree/main/common/Haara_cascad/good.png) !["плохое" фото](https://github.com/sergeya884/NANORobotProject/tree/main/common/Haara_cascad/bad.png)
+
+!["хорошее" фото](https://github.com/sergeya884/NANORobotProject/blob/main/common/Haara_cascsd/good.png) !["плохое" фото](https://github.com/sergeya884/NANORobotProject/blob/main/common/Haara_cascsd/bad.png)
 
 Примеры работы детектора
-![](https://github.com/sergeya884/NANORobotProject/tree/main/common/Haara_cascad/examp1.png) ![](https://github.com/sergeya884/NANORobotProject/tree/main/common/Haara_cascad/examp2.png)
+
+![](https://github.com/sergeya884/NANORobotProject/blob/main/common/Haara_cascsd/examp1.png) ![](https://github.com/sergeya884/NANORobotProject/blob/main/common/Haara_cascsd/examp2.png)
 
 Позже достану из другого компьютера файл с обученным каскадом и программой распознавания.
 
