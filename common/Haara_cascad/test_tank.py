@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+def a (n, **coeff):
+
+
+
+=======
 import argparse
 import cv2
  
@@ -28,3 +34,4 @@ for (i, (x, y, w, h)) in enumerate(rects):
 # show the detected cat faces
 cv2.imshow("tank", image)
 cv2.waitKey(0)
+>>>>>>> 03640adf67b80c5bd3e693690ea6b4f8c49d2224
